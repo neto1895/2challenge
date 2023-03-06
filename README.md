@@ -6,17 +6,28 @@ This repo contains the **refactored** code from an on-the-job-ticket of a market
 and tidy the code. 
 Refer to the following file to see the whole instructions.(https://github.com/neto1895/Module1-2challenge-ECR/blob/main/02-Challenge/README.md) 
 
-## Installation
+## Deployed aplication
 
-N/A
+(https://neto1895.github.io/Module1-2challenge-ECR/)
+
+The following image shows the web application's appearance and functionality:
+(./02-Challenge/Develop/assets/images/screenshoydeploy.png)
 
 ## Usage
 
 To use this page you can click at the top of the page the titles of your interes. 
+
+
+## Installation
+
+N/A
+
 ## Credits
 
 N/A
 
 ## License
 
-Please refer to the LICENSE in the repo.
+N/A
+
+(https://img.shields.io/badge/bootcamp-Web%20Developer-red)
