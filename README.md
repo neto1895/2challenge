@@ -1,3 +1,5 @@
+![plot](https://img.shields.io/badge/bootcamp-Web%20Developer-red)
+
 # Module 1, 02 Challenge Assignment
 
 ## Description
@@ -11,7 +13,7 @@ Refer to the following file to see the whole instructions.(https://github.com/ne
 (https://neto1895.github.io/Module1-2challenge-ECR/)
 
 The following image shows the web application's appearance and functionality:
-(https://github.com/neto1895/Module1-2challenge-ECR/blob/main/02-Challenge/Develop/assets/images/screenshotdeploy.png)
+![plot](https://github.com/neto1895/Module1-2challenge-ECR/blob/main/02-Challenge/Develop/assets/images/screenshotdeploy.png)
 
 ## Usage
 
@@ -30,4 +32,4 @@ N/A
 
 N/A
 
-(https://img.shields.io/badge/bootcamp-Web%20Developer-red)
+![plot](https://img.shields.io/badge/bootcamp-Web%20Developer-red)
