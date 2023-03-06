@@ -11,7 +11,7 @@ Refer to the following file to see the whole instructions.(https://github.com/ne
 (https://neto1895.github.io/Module1-2challenge-ECR/)
 
 The following image shows the web application's appearance and functionality:
-(./02-Challenge/Develop/assets/images/screenshotdeploy.png)
+(https://github.com/neto1895/Module1-2challenge-ECR/blob/main/02-Challenge/Develop/assets/images/screenshotdeploy.png)
 
 ## Usage
 
